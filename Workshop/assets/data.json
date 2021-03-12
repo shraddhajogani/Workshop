@@ -1,0 +1,23 @@
+[
+  {
+    "time": "5",
+    "distance": "10",
+    "colorval": "0xff3366cc"
+  },
+  {
+    "time": "10",
+    "distance": "30",
+    "colorval": "0xff990099"
+
+  },
+  {
+    "time": "15",
+    "distance": "40",
+    "colorval": "0xff109618"
+  },
+  {
+    "time": "20",
+    "distance": "10",
+    "colorval": "0xfffdbe19"
+  }
+]
